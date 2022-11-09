@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "msg-short-card": "/components/msgShort-card/msgShort-card"
+  }
+}

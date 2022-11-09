@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "gear-card": "/components/gear-card/gear-card",
+    "msg-card": "/components/msg-card/msg-card"
+  }
+}

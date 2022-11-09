@@ -1,0 +1,72 @@
+{
+  "id": "3751390",
+  "name": "spl3",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "982337",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "3777802",
+      "name": "主页",
+      "font_class": "zhuye1",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "925319",
+      "name": "衣服",
+      "font_class": "yifu",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1301391",
+      "name": "衣服",
+      "font_class": "yifu1",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "5334183",
+      "name": "日程",
+      "font_class": "richeng",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "6129178",
+      "name": "138设置、系统设置、功能设置、属性",
+      "font_class": "shezhixitongshezhigongnengshezhishuxing",
+      "unicode": "e795",
+      "unicode_decimal": 59285
+    },
+    {
+      "icon_id": "6129179",
+      "name": "137设置、系统设置、功能设置、属性-线",
+      "font_class": "shezhixitongshezhigongnengshezhishuxing-xian",
+      "unicode": "e796",
+      "unicode_decimal": 59286
+    },
+    {
+      "icon_id": "7501107",
+      "name": "日程2",
+      "font_class": "fenghuangxiangmutubiao_richeng",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "17542037",
+      "name": "每日推荐",
+      "font_class": "tuijian",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}

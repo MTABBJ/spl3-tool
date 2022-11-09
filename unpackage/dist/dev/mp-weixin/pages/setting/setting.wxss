@@ -1,0 +1,10 @@
+
+.explain {
+  margin: 40rpx;
+  position: absolute;
+  bottom: 0;
+}
+.explain text {
+  display: flex;
+}
+

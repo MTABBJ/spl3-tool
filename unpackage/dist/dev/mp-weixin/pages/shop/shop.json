@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "gear-card": "/components/gear-card/gear-card"
+  }
+}

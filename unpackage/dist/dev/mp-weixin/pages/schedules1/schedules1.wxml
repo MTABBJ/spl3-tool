@@ -1,0 +1,1 @@
+<view class="content"><msg-card vue-id="7d2601a0-1" schedules="{{regularSchedules}}" rule="{{rule}}" bind:__l="__l"></msg-card></view>

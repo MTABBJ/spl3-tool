@@ -1,0 +1,68 @@
+.about-container {
+  margin-top: 40rpx;
+  margin-bottom: 40rpx;
+}
+.about-wrap {
+  background-color: #f8dc47;
+  color: #ffffff;
+}
+.about-title {
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+}
+.about-title text {
+  font-size: 56rpx;
+  line-height: 1em;
+}
+.about-content {
+  margin-top: 15rpx;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 30rpx;
+  font-size: 32rpx;
+  padding: 20rpx;
+}
+.about-content text {
+  line-height: 1.5em;
+}
+.about-content view {
+  margin-bottom: 20rpx;
+}
+.about-content view:last-child {
+  margin-bottom: 0rpx;
+}
+.about-content .about-word {
+  margin-left: 2rpx;
+  margin-right: 12rpx;
+}
+.scheduleRule {
+  display: flex;
+  position: relative;
+}
+.scheduleRule .img {
+  width: 40rpx;
+}
+.scheduleRule .scheduleTime {
+  position: absolute;
+  right: 0;
+}
+.stages {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.stages .stage {
+  display: flex;
+  flex-direction: column;
+}
+.stages .stage image {
+  border-radius: 20rpx;
+  width: 250rpx;
+  height: 120rpx;
+}
+.stages .stage .stagesName {
+  top: 40rpx;
+  margin: 20rpx 0rpx;
+  font-size: 8rpx;
+  text-align: center;
+}
+

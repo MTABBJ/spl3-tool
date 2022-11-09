@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "msg-card": "/components/msg-card/msg-card"
+  }
+}

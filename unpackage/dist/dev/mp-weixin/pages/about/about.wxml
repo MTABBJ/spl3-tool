@@ -1,0 +1,1 @@
+<view class="container"><gear-card vue-id="1cea7424-1" bind:__l="__l"></gear-card><msg-card vue-id="1cea7424-2" bind:__l="__l"></msg-card></view>

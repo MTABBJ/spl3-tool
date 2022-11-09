@@ -1,0 +1,91 @@
+{
+  "pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+    {
+      "path": "pages/index/index"
+    }, {
+      "path": "pages/about/about"
+    },
+    {
+      "path": "pages/schedules/schedules"
+    }, {
+      "path": "pages/shop/shop"
+    }, {
+      "path": "pages/wear/wear"
+    }, {
+      "path": "pages/setting/setting"
+    }, {
+      "path": "pages/fes/fes"
+    }, {
+      "path": "pages/schedules1/schedules1"
+    }, {
+      "path": "pages/schedules2/schedules2"
+    }, {
+      "path": "pages/schedules3/schedules3"
+    }, {
+      "path": "pages/schedules4/schedules4"
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "海产圈 3",
+    "navigationBarBackgroundColor": "#000000",
+    "backgroundColor": "#19232C"
+  },
+  "tabBar": {
+    "position": "bottom",
+    "selectedColor": "#EAFF3D",
+    "color": "#e6e6e6",
+    "backgroundColor": "#000000",
+    "iconWidth": "24px",
+    "iconfontSrc": "static/fonts/iconfont.ttf",
+    "list": [{
+        "text": "主页",
+        "pagePath": "pages/index/index",
+        "selectedIconPath": "static/ika.png",
+        "iconfont": {
+          "text": "\ue62f",
+          "selectedText": "\ue655",
+          "color": "#e6e6e6",
+          "selectedColor": "#eaff3d"
+        }
+      },
+      {
+        "text": "日程",
+        "pagePath": "pages/schedules/schedules",
+        "iconfont": {
+          "text": "\ue621",
+          "selectedText": "\ue66d",
+          "color": "#e6e6e6",
+          "selectedColor": "#eaff3d"
+        }
+      },
+      {
+        "text": "穿搭",
+        "pagePath": "pages/wear/wear",
+        "iconfont": {
+          "text": "\ue666",
+          "selectedText": "\ue608",
+          "color": "#e6e6e6",
+          "selectedColor": "#eaff3d"
+        }
+      },
+      {
+        "text": "设置",
+        "pagePath": "pages/setting/setting",
+        "iconfont": {
+          "text": "\ue796",
+          "selectedText": "\ue795",
+          "color": "#e6e6e6",
+          "selectedColor": "#eaff3d"
+        }
+      }
+    ]
+  },
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      // uni-ui 规则如下配置
+      "^uni-(.*)": "@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue"
+    }
+  }
+}
